@@ -1,0 +1,10 @@
+{
+  "start": "06:30",
+  "end": "08:00",
+  "speed_kmh": 10,
+  "radius_m": 150,
+  "anchor_wgs84": null,
+  "headless": false,
+  "task_deadline": "2026-11-30",
+  "duration_seconds": 2000
+}

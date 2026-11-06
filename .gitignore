@@ -1,0 +1,9 @@
+runtime/
+dist/
+__pycache__/
+*.pyc
+*.dat
+*.apk
+*.log
+settings.json
+daily-state.json
